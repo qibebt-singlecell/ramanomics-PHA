@@ -1,0 +1,13 @@
+class	SCP
+Actual	59.796
+Actual	58.186
+Actual	54.492
+Actual	50.423
+Actual	48.519
+Actual	50.606
+Prediction	62.53084871
+Prediction	59.54951903
+Prediction	52.92364875
+Prediction	53.80311029
+Prediction	51.97681125
+Prediction	51.12609581
